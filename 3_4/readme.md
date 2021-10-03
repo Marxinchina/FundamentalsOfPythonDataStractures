@@ -1,0 +1,2 @@
+- selection_sort method has a error：we work it out.
+- insert_sort method has a error

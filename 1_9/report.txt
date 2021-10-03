@@ -1,0 +1,4 @@
+last name,hours worked,wage
+zhangsan,15,300.0
+lisi,16,336.0
+wangwu,17,340.0
